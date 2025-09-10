@@ -1,2 +1,2 @@
 # SQL
-Samples of SQLs
+Samples of SQL challenges
